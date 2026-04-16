@@ -1,65 +1,52 @@
-<!-- ======================= CYBERPUNK HEADER ======================= -->
+<!-- ======================= CYBER HEADER ======================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:00F7FF&height=200&section=header&text=Siddhartha%20%7C%20Developer&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:00F7FF&height=180&section=header&text=Siddharth%20%7C%20Developer%20Dashboard&fontSize=35&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&color=00F7FF&center=true&vCenter=true&width=900&lines=Booting+Cyber+System...;Full+Stack+Developer;Blockchain+Engineer;DSA+Grinder;Welcome+to+My+Digital+World" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=00F7FF&style=flat" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2800&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Blockchain+Engineer;DSA+Problem+Solver;Building+Scalable+Systems" />
 </p>
 
 ---
 
-<!-- ======================= SYSTEM TERMINAL ======================= -->
+<!-- ======================= SYSTEM BOOT ======================= -->
 
 <pre>
 ╔══════════════════════════════════════════════════════════════════════╗
-║  siddhartha@cybercore:~$ boot_profile                               ║
+║  siddharth184@dev:~$ initialize_profile                             ║
 ║----------------------------------------------------------------------║
-║  Initializing modules...                                             ║
+║  Loading professional dashboard...                                   ║
 ║  ███████████████████████████████████████████ 100%                    ║
 ║                                                                      ║
-║  ROLE      : Full Stack Developer                                    ║
-║  CORE      : DSA • Web • Blockchain                                  ║
-║  STATUS    : Building • Learning • Scaling 🚀                        ║
-║  VERSION   : v2.0 (Cyberpunk Edition)                                ║
+║  Role      : Full Stack Developer                                    ║
+║  Core      : Data Structures • Web • Blockchain                      ║
+║  Focus     : Scalable Applications & Problem Solving                 ║
+║  Status    : Actively Building & Preparing for Opportunities         ║
+║                                                                      ║
 ╚══════════════════════════════════════════════════════════════════════╝
 </pre>
 
 ---
 
-<!-- ======================= WHOAMI ======================= -->
+<!-- ======================= SUMMARY ======================= -->
 
 ```bash
-$ whoami
-Siddhartha | Engineer | Builder | Problem Solver
+$ profile.summary
 ```
+
+* 🎓 Bachelor of Engineering in Computer Science
+* 💻 Full Stack Developer (React, Node.js)
+* 🔗 Blockchain Development (Solidity, Ethereum)
+* 🧠 Strong foundation in Data Structures & Algorithms
+* 🚀 Focused on product-based engineering roles
 
 ---
 
-<!-- ======================= SYSTEM CONFIG ======================= -->
-
-```json
-{
-  "name": "Siddhartha",
-  "education": "B.E. Computer Science",
-  "skills": ["React", "JavaScript", "Python", "Solidity"],
-  "focus": ["DSA", "Full Stack", "Blockchain"],
-  "mission": "Crack Top Product-Based Companies",
-  "philosophy": "Consistency > Motivation"
-}
-```
-
----
-
-<!-- ======================= TECH MATRIX ======================= -->
+<!-- ======================= TECH STACK ======================= -->
 
 ```bash
-$ load tech_matrix
+$ load tech_stack
 ```
 
 <p align="center">
@@ -68,72 +55,69 @@ $ load tech_matrix
 
 ---
 
-<!-- ======================= PROJECT ENGINE ======================= -->
+<!-- ======================= PROJECT SYSTEM ======================= -->
 
 ```bash
-$ execute projects.exe
+$ execute key_projects
 ```
 
-🚀 **Blockchain Voting System**
+🔐 **Blockchain Voting System**
+→ Designed a decentralized and secure voting platform using smart contracts
 
-> Decentralized voting using Ethereum smart contracts
+👁️ **Trinetra – AI Surveillance System**
+→ Built an AI-powered behavior detection system using OpenCV
 
-👁️ **Trinetra - AI CCTV**
+🧠 **HealthBot (AI Chatbot)**
+→ Developed a real-time intelligent chatbot for personalized health insights
 
-> Real-time behavior detection using OpenCV & AI
-
-🧠 **HealthBot**
-
-> AI chatbot with real-time health data integration
-
-📚 **DSA Engine**
-
-> Structured problem-solving patterns for interviews
+📚 **DSA Pattern Repository**
+→ Implemented optimized solutions for common interview patterns
 
 ---
 
-<!-- ======================= LIVE METRICS ======================= -->
+<!-- ======================= DASHBOARD ======================= -->
 
 ```bash
-$ fetch metrics
+$ render dashboard_metrics
 ```
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=siddharth184&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siddharth184&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharth184&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-<!-- ======================= ACTIVITY VISUAL ======================= -->
+<!-- ======================= ACTIVITY ======================= -->
 
 ```bash
-$ visualize activity_graph
+$ analyze contribution_activity
 ```
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=siddharth184&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
-<!-- ======================= SYSTEM STATUS ======================= -->
+<!-- ======================= CURRENT STATUS ======================= -->
 
 ```bash
-$ echo $STATUS
-"Grinding DSA • Building Projects • Ready for Opportunities 🚀"
+$ echo $current_focus
 ```
+
+"Improving problem-solving skills • Building scalable applications • Preparing for technical interviews"
 
 ---
 
-<!-- ======================= CONNECT ======================= -->
+<!-- ======================= CONTACT ======================= -->
 
 ```bash
-$ connect --init
+$ connect --professional
 ```
 
 <p align="center">
@@ -141,7 +125,7 @@ $ connect --init
     <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
   </a>
   <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Gmail-00F7FF?style=for-the-badge&logo=gmail&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Email-00F7FF?style=for-the-badge&logo=gmail&logoColor=black"/>
   </a>
 </p>
 
@@ -150,9 +134,5 @@ $ connect --init
 <!-- ======================= FOOTER ======================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0f2027&height=120&section=footer"/>
-</p>
-
-<p align="center">
-  ⚡ <b>"Build Like a Hacker. Think Like an Engineer."</b> ⚡
+  ⚡ <b>"Consistency, clarity, and execution define great engineers."</b> ⚡
 </p>
