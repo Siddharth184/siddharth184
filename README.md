@@ -1,138 +1,190 @@
-<!-- ======================= CYBER HEADER ======================= -->
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:00F7FF&height=180&section=header&text=Siddharth%20%7C%20Developer%20Dashboard&fontSize=35&fontColor=ffffff&animation=fadeIn" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=170&section=header&text=SIDDHARTH.EXE&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20Command%20Center&descAlignY=58&descSize=16" width="100%"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2800&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Blockchain+Engineer;DSA+Problem+Solver;Building+Scalable+Systems" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2800&pause=1200&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+%E2%80%A2+Learning+%E2%80%A2+Solving+%E2%80%A2+Improving" alt="Typing SVG" />
 
----
+</div>
 
-<!-- ======================= SYSTEM BOOT ======================= -->
+<br/>
 
-<pre>
-╔══════════════════════════════════════════════════════════════════════╗
-║  siddharth184@dev:~$ initialize_profile                             ║
-║----------------------------------------------------------------------║
-║  Loading professional dashboard...                                   ║
-║  ███████████████████████████████████████████ 100%                    ║
-║                                                                      ║
-║  Role      : Full Stack Developer                                    ║
-║  Core      : Data Structures • Web • Blockchain                      ║
-║  Focus     : Scalable Applications & Problem Solving                 ║
-║  Status    : Actively Building & Preparing for Opportunities         ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
-</pre>
+## `> whoami`
 
----
+I'm a Computer Science graduate interested in building reliable and practical software applications. I enjoy working across frontend and backend technologies, solving technical problems, and continuously improving my development skills.
 
-<!-- ======================= SUMMARY ======================= -->
+<br/>
 
-```bash
-$ profile.summary
+## `> status`
+
+```
+SYSTEM STATUS
+────────────────────────────────────
+Role        Software Developer
+Focus       Full-Stack Development
+Learning    Backend & System Design
+Status      Building
+Location    India
 ```
 
-* 🎓 Bachelor of Engineering in Computer Science
-* 💻 Full Stack Developer (React, Node.js)
-* 🔗 Blockchain Development (Solidity, Ethereum)
-* 🧠 Strong foundation in Data Structures & Algorithms
-* 🚀 Focused on product-based engineering roles
+<br/>
 
----
+## `> stack`
 
-<!-- ======================= TECH STACK ======================= -->
+**Languages**
+`JavaScript` `Python` `Java` `Solidity`
 
-```bash
-$ load tech_stack
+**Frontend**
+`React` `React Native (Expo)` `HTML` `CSS` `Tailwind CSS`
+
+**Backend**
+`Node.js` `Express.js` `Spring Boot` `Socket.IO`
+
+**Data**
+`MongoDB` `SQL` `MySQL` `SQLite` `Pandas` `NumPy`
+
+**Tools & Platform**
+`Git` `GitHub` `Docker` `Vercel`
+
+<sub>Currently exploring: security fundamentals, threat detection basics, log analysis, incident response concepts.</sub>
+
+<br/>
+
+## `> comfort_level`
+
+<sub>Self-assessed, not a certified skill rating — meant to show where my focus currently sits.</sub>
+
+```
+JavaScript / React     █████████░  90%
+Node.js / Express      ████████░░  80%
+Python                 ████████░░  80%
+MongoDB                ███████░░░  70%
+SQL / SQLite           ███████░░░  70%
+Java                   ██████░░░░  60%
+Spring Boot            █████░░░░░  50%
+Solidity / Web3        ████░░░░░░  40%
+Docker                 ████░░░░░░  40%
+Cybersecurity          ███░░░░░░░  30%
 ```
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,python,solidity,mongodb,html,css,git,github" />
-</p>
+<br/>
 
----
+## `> projects`
 
-<!-- ======================= PROJECT SYSTEM ======================= -->
+### FEATURED BUILDS
 
-```bash
-$ execute key_projects
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**BakBak — Real-Time Chat App**
+Cross-platform chat with persistence, presence, typing indicators, and delivery status.
+
+`React Native` `Expo` `Node.js` `Express` `Socket.IO` `MongoDB`
+
+● COMPLETED
+
+[Repository](https://github.com/Siddharth184/BakBak-MobileApp) · [Live Backend](https://mobileapp-g82a.onrender.com)
+
+</td>
+<td width="50%" valign="top">
+
+**QuickShow — Movie Booking Platform**
+Full-stack movie discovery and ticket booking with payments and background workflows.
+
+`React` `Vite` `Node.js` `Express` `MongoDB` `Stripe` `Inngest`
+
+● COMPLETED
+
+[Repository](https://github.com/Siddharth184/Quickshow) · [Live Demo](https://quickshow-j97x.vercel.app)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Sutradhara — AI Chatbot Platform**
+Conversational AI with image generation, community sharing, credits, and payments.
+
+`React` `Tailwind CSS` `Node.js` `Express` `MongoDB` `Gemini API` `Stripe`
+
+● COMPLETED
+
+[Repository](https://github.com/Siddharth184/Sutradhara) · [Live Demo](https://sutradhara.vercel.app)
+
+</td>
+<td width="50%" valign="top">
+
+**NIFTY100 Financial Intelligence Platform**
+ETL pipeline and analytics dashboard for NIFTY 100 financial data — validation, KPI engine, and interactive reporting.
+
+`Python` `Pandas` `SQLAlchemy` `Streamlit` `Plotly`
+
+● IN PROGRESS
+
+[Repository](https://github.com/Siddharth184/nifty100-financial-intelligence-platform)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## `> build_log`
+
+```
+2026
+
+✓ Shipped BakBak — real-time chat app with Socket.IO & MongoDB
+✓ Shipped QuickShow — full-stack booking platform with Stripe payments
+✓ Shipped Sutradhara — AI chatbot with Gemini API & image generation
+✓ Explored blockchain fundamentals with Solidity & Ethereum
+→ Building NIFTY100 — Python ETL pipeline + Streamlit dashboard
+→ Improving backend architecture & system design
+→ Picking up Java & Spring Boot fundamentals
 ```
 
-🔐 **Blockchain Voting System**
-→ Designed a decentralized and secure voting platform using smart contracts
+<br/>
 
-👁️ **Trinetra – AI Surveillance System**
-→ Built an AI-powered behavior detection system using OpenCV
+## `> currently_learning`
 
-🧠 **HealthBot (AI Chatbot)**
-→ Developed a real-time intelligent chatbot for personalized health insights
+`Advanced Java` `Spring Boot` `Backend Architecture` `System Design` `Data Analytics` `Better Git/GitHub Practices`
 
-📚 **DSA Pattern Repository**
-→ Implemented optimized solutions for common interview patterns
+<br/>
 
----
+## `> github_activity`
 
-<!-- ======================= DASHBOARD ======================= -->
+<div align="center">
 
-```bash
-$ render dashboard_metrics
+![Profile Views](https://komarev.com/ghpvc/?username=Siddharth184&color=00F7FF&style=flat-square&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/Siddharth184?style=flat-square&color=00F7FF&label=FOLLOWERS)
+![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FSiddharth184&label=PUBLIC%20REPOS&query=%24.public_repos&color=00F7FF&style=flat-square)
+
+<sub>Full commit history and contribution graph are shown natively by GitHub directly below this README.</sub>
+
+</div>
+
+<br/>
+
+## `> philosophy`
+
+```
+BUILD → BREAK → LEARN → IMPROVE
 ```
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siddharth184&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siddharth184&theme=tokyonight&hide_border=true" height="165"/>
-</p>
+> I believe the best way to learn development is to build real things, understand what breaks, and keep improving.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharth184&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<br/>
 
----
+## `> connect`
 
-<!-- ======================= ACTIVITY ======================= -->
+<div align="center">
 
-```bash
-$ analyze contribution_activity
-```
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddharth-tiwari-3b012a2b4/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Siddharth184)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siddharthtiwari184@gmail.com)
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=siddharth184&theme=tokyo-night&hide_border=true" />
-</p>
+</div>
 
----
+<br/>
 
-<!-- ======================= CURRENT STATUS ======================= -->
-
-```bash
-$ echo $current_focus
-```
-
-"Improving problem-solving skills • Building scalable applications • Preparing for technical interviews"
-
----
-
-<!-- ======================= CONTACT ======================= -->
-
-```bash
-$ connect --professional
-```
-
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-00F7FF?style=for-the-badge&logo=gmail&logoColor=black"/>
-  </a>
-</p>
-
----
-
-<!-- ======================= FOOTER ======================= -->
-
-<p align="center">
-  ⚡ <b>"Consistency, clarity, and execution define great engineers."</b> ⚡
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=100&section=footer" width="100%"/>
