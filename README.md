@@ -145,23 +145,6 @@ ETL pipeline and analytics dashboard for NIFTY 100 financial data — validation
 
 <br/>
 
-## `> currently_learning`
-
-`Advanced Java` `Spring Boot` `Backend Architecture` `System Design` `Data Analytics` `Better Git/GitHub Practices`
-
-<br/>
-
-## `> github_activity`
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Siddharth184&color=00F7FF&style=flat-square&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/Siddharth184?style=flat-square&color=00F7FF&label=FOLLOWERS)
-![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FSiddharth184&label=PUBLIC%20REPOS&query=%24.public_repos&color=00F7FF&style=flat-square)
-
-<sub>Full commit history and contribution graph are shown natively by GitHub directly below this README.</sub>
-
-</div>
 
 <br/>
 
