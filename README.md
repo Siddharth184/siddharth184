@@ -129,24 +129,7 @@ ETL pipeline and analytics dashboard for NIFTY 100 financial data — validation
 
 <br/>
 
-## `> build_log`
 
-```
-2026
-
-✓ Shipped BakBak — real-time chat app with Socket.IO & MongoDB
-✓ Shipped QuickShow — full-stack booking platform with Stripe payments
-✓ Shipped Sutradhara — AI chatbot with Gemini API & image generation
-✓ Explored blockchain fundamentals with Solidity & Ethereum
-→ Building NIFTY100 — Python ETL pipeline + Streamlit dashboard
-→ Improving backend architecture & system design
-→ Picking up Java & Spring Boot fundamentals
-```
-
-<br/>
-
-
-<br/>
 
 ## `> philosophy`
 
